@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Tasks>
+  <Task Title="Implement Controller and Action - {0}"></Task>
+  <Task Title="Implement Unit Tests - {0}"></Task>
+  <Task Title="Implement DB Schema - {0}"></Task>
+  <Task Title="Implement UI Styling - {0}"></Task>
+</Tasks>
